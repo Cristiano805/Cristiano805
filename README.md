@@ -1,11 +1,11 @@
-## Oii!! Eu sou o Cristiano Ferreira
+## Oii!! Eu sou o Cristiano
 
-- 🔭 Hoje estudo Front-End
+- 🔭 Dev Front-End
 
  <div align="center">
   <a href="https://github.com/Cristiano805">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cristiano805&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiano805&layout=compact&langs_count=7&theme=slateorange"/>
+   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=Cristiano805&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiano805&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
  
 <div style="display: inline_block"><br>
