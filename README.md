@@ -1,4 +1,4 @@
-## Oii!! Eu sou o Cristiano
+## Oi! Eu sou o Cristiano
 
 - 🔭 Dev Front-End
 
